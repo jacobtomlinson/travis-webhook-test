@@ -5,4 +5,4 @@ script:
 - echo "Hello world"
 notifications:
   webhooks:
-    - $TEST_WEBHOOK
+    - http://53b56b92.ngrok.io
