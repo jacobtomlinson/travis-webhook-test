@@ -5,4 +5,4 @@ script:
 - echo "Hello world"
 notifications:
   webhooks:
-    - http://53b56b92.ngrok.io
+    - http://labby.informaticslab.co.uk/skill/travis/event
