@@ -6,3 +6,4 @@ script:
 notifications:
   webhooks:
     - http://labby.informaticslab.co.uk/skill/travis/event
+    - http://41913fa1.ngrok.io/skill/travis/event
